@@ -1,2 +1,2 @@
 For the Heroku App 
-https://snl-coefficient.herokuapp.com/bokeh_movies
+https://snl-alum-coefficient.herokuapp.com/main
